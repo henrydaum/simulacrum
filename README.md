@@ -1,4 +1,4 @@
-# Simulacrum
+# Simulacrum by Henry Daum
 A personal AI assistant running on Raspberry Pi. Manages Google Calendar, transcribes voice notes, and remembers context via a secure Telegram interface. Powered by OpenAI and available 24/7, anywhere in the world.
 
 ## Features
